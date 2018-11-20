@@ -3,3 +3,4 @@ htmlcov/
 **.py[cod]
 .*
 !.gitignore
+!.travis.yml
